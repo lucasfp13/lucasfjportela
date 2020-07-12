@@ -1,6 +1,6 @@
 ## Hey! 😬
 
-My name is Lucas Feijó, graduated in Information Systems. I've been working as a full-stack developer since 2018. Aiming to deepen my development skills in Clojure and Golang projects.
+My name is Lucas Feijó, graduated in Information Systems. I've been working as a full-stack developer since 2018. Aiming to deepen my development skills in Clojure and Go projects.
 
 - :computer: Main techs: React, React Native, Ruby on Rails.
 
